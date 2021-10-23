@@ -1,0 +1,52 @@
+.heading{
+    width:100%;
+    text-align:left;
+}
+
+.heading h3{
+    display:inline;
+}
+
+.heading button{
+    float:right;
+    border:1px solid white;
+}
+
+.big_image{
+    width:100%;
+}
+
+#start, #status, #reastart{
+    font-size:22px;
+}
+
+.scroll_top{
+    border-radius: 100px;
+    font-size: 25px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+.scroll_top span{
+    margin-top: 5px;
+}
+
+.footer_div{
+    margin-bottom:50px;
+}
+
+.footer_div h4{
+    background: white;
+    border-radius: 10px;
+    padding:5px;
+    box-shadow: 5px 5px 18px white;
+}
+ 
+
+.footer_div img{
+    width:70px;
+}
+
+canvas{
+    margin-top:20px;
+}
